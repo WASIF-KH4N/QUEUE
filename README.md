@@ -1,2 +1,2 @@
 # QUEUE
-Implementation of array using queue in c++.
+This C++ code implements a basic queue data structure using an array of fixed size 5. The Queue class has two private member variables, rear and front, which keep track of the indices for enqueue and dequeue operations. The code includes methods for enqueue, dequeue, and display, but lacks error handling for edge cases and has a limited capacity due to the fixed-size array. In the example usage, a Queue object is created, and two elements are enqueued, displayed, and then one is dequeued, showcasing the basic queue operations.
